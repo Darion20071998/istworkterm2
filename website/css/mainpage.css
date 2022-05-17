@@ -1,0 +1,24 @@
+body {
+  background-color: darkslateblue;
+}
+
+h2 {
+  color: black;
+}
+
+.bodycontent{
+    padding: 30px;
+    padding-top: 15px;
+    background-color: rgb(212, 212, 212);
+    border-radius: 8px;
+}
+
+footer{
+    padding: 100px;
+}
+
+footer a{
+    display: block;
+    text-align: center;
+    color: white;
+}
