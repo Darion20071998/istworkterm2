@@ -11,8 +11,11 @@ body {
 }
 
 .bodycontent{
-    padding: 80px;
+    font-family: 'Nunito', sans-serif;
     padding-top: 3px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
     background-color: rgb(212, 212, 212);
     border-radius: 8px;
 }
