@@ -15,7 +15,7 @@ body {
     padding-top: 3px;
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 100px;
     background-color: rgb(212, 212, 212);
     border-radius: 8px;
 }
@@ -48,4 +48,18 @@ footer p:hover{
 
 footer a:hover{
     text-decoration: underline;
+}
+
+strong{
+    padding-bottom: 15px;
+}
+
+ul{
+    padding-bottom: 50px;
+}
+
+.factlink{
+    display: block;
+    text-align: center;
+    
 }

@@ -1,6 +1,7 @@
 header{
-    padding-left: 420px;
-    padding-right: 420px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 30px;
 }
 
 
@@ -13,10 +14,9 @@ h1{
     padding: 20px;
 }
 
-#titlelink{
+.titlelink{
     text-decoration: none;
     color: black;
-
 }
 
 
