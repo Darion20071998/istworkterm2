@@ -7,3 +7,11 @@ img{
 #taghtml{
     padding-top: 20px;
 }
+
+body a{
+    text-decoration: none;
+}
+
+body a:hover{
+    text-decoration: underline;
+}
